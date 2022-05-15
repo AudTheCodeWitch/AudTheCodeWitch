@@ -2,7 +2,7 @@
 
 ❓ My name is pronounced “Odd-ra.” You can call me Aud. My pronouns are “she/her.”
 
-🔭 I currently work with a fantastic team at [Raise.dev](https://raise.dev), but I am actively seeking my next software engineering role!
+🔭 I currently work on the Payments team at [Dutchie](https://dutchie.com).
 
 🌱 My main learning focus at the moment is Test Driven Development with RSpec.
 
