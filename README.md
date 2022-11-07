@@ -12,9 +12,9 @@
 
 
 ### More about Aud
-💼 [My Portfolio](https://codewitch.dev)
+💼 [My Portfolio](https://audthecodewitch.dev)
 
-📄 [My Resume](https://codewitch.dev/about/resume)
+📄 [My Resume](https://audthecodewitch.dev/about/resume)
 
 
 ### Languages and Tools
