@@ -4,7 +4,7 @@
 
 🔭 I currently work on the Payments team at [Dutchie](https://dutchie.com).
 
-🌱 My main learning focus at the moment is Test Driven Development with RSpec.
+🌱 My main learning focus at the moment is C# and .NET.
 
 🐛 I'm a book worm! [Here's what I'm reading now](https://app.thestorygraph.com/profile/audthecodewitch).
 
