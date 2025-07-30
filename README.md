@@ -2,9 +2,9 @@
 
 ❓ My name is pronounced “Odd-ra.” You can call me Aud. My pronouns are “she/her.”
 
-🔭 I currently work on the Payments team at [Dutchie](https://dutchie.com).
+🔭 I am a Senior Software Engineer looking for her next role. Recently, I worked on the Retail Payments team at [Dutchie](https://dutchie.com).
 
-🌱 My main learning focus at the moment is C# and .NET.
+🌱 My main learning focus at the moment is PostgreSQL.
 
 🐛 I'm a book worm! [Here's what I'm reading now](https://app.thestorygraph.com/profile/audthecodewitch).
 
